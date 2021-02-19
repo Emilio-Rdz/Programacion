@@ -5,4 +5,4 @@ cajas = 35273.92 / peso
 tons = peso / 35273.92
 print ("Una caja de cerel pesa", tons, "toneladas metricas")
 print ("Una tonelada metrica son", cajas, "cajas de cereal")
-print("Muchas gracias")
+
